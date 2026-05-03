@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm Patrick and I am a Software Engineer passionate about building secure software solutions. Also passionate about all things like Artificial Intelligence and Cybersecurity.
 <!--
 **ai-patrick/ai-patrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
