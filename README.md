@@ -5,6 +5,7 @@ currently working on: Aura app
 
 ---
 The projects I have worked on include:
+
 ---
 Fun fact:
 * I love trying new things
