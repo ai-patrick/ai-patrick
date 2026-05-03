@@ -5,7 +5,10 @@ currently working on: Aura app
 
 ---
 The projects I have worked on include:
-
+---
+Fun fact:
+* I love trying new things
+* Hobbies: travelling & hiking
 <!--
 **ai-patrick/ai-patrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
