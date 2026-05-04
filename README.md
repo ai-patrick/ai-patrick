@@ -1,11 +1,12 @@
 ## Hi there 👋
 I'm Patrick and I am a Software Engineer passionate about building secure software solutions. Also passionate about all things like Artificial Intelligence and Cybersecurity.
 
-currently working on: Aura app
+currently working on: [Aura app]
 
 ---
 The projects I have worked on include:
 * [Alina906vibes](https://alina906vibes.netlify.app/): A next-gen rental platform securing every stay with blockchain payments, AI identity verification, and traditional payment reliability.
+* [Prestige Car Dealership](https://github.com/ai-patrick/Car-Dealership.git): Where exceptional vehicles meet discerning buyers, redefining the luxury car experience.
 ---
 Fun fact:
 * I love trying new things
