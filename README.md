@@ -5,7 +5,7 @@ currently working on: Aura app
 
 ---
 The projects I have worked on include:
-
+* [Alina906vibes](https://alina906vibes.netlify.app/): A next-gen rental platform securing every stay with blockchain payments, AI identity verification, and traditional payment reliability.
 ---
 Fun fact:
 * I love trying new things
